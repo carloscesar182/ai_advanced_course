@@ -2,9 +2,8 @@
 Repo do curso de formação avançada de IA da Udemy
 
 # Módulos
-## Fundamentos de machine learning
-
 ## Algoritmos de machine learning
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/MLAlgorithms)
 - Regressão Linear
 - Regressão Linear com StatsModels
 - Naive Bayes
@@ -15,6 +14,7 @@ Repo do curso de formação avançada de IA da Udemy
 - Apriori
 
 ## Tecnicas avançadas de machine learning
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/MLAdvTechniques)
 - Engenharia de Atributos
 - PCA
 - Seleção de Atributos
@@ -26,6 +26,7 @@ Repo do curso de formação avançada de IA da Udemy
 - AutoMLH20
 
 ## Redes Neurais, Deep Learning e Visão Computacional
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/RNA)
 - RNA
 - RNA com Keras
 - CNN
@@ -34,13 +35,16 @@ Repo do curso de formação avançada de IA da Udemy
 - Detecção de Objetos
 
 ## Machine Learning Explicável
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/XAI)
 - XAI
 
 ## Processamento de Linguagem Natural
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/NLP)
 - PLN
 - NLPR
 
 ## LLMs e Inteligencia Artificial Generativa
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/LLMsGenAI)
 - Text Generator
 - Preenchimento de Máscara
 - Gerador de Resumo
@@ -52,10 +56,12 @@ Repo do curso de formação avançada de IA da Udemy
 - Whisper
 
 ## Agentes de IA
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/AIAgents)
 - Agente via web
 - Agente RAG Especializado
 
 ## Detecção de Anomalias
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/AnomalyDetection)
 - Z-Score
 - IQR Method
 - LOF
@@ -67,8 +73,11 @@ Repo do curso de formação avançada de IA da Udemy
 - STD
 - ARIMA
 
-## Algoritmos Genéricos
+## Algoritmos Genéticos
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/GeneticalAlgorithms)
 
 ## Busca e Otimização
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/SearchAndOptimization)
 
 ## Logica Difusa
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/DifusalLogic)
