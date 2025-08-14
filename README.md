@@ -27,7 +27,7 @@ Repo do curso de formação avançada de IA da Udemy
 
 ## Redes Neurais, Deep Learning e Visão Computacional
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/RNA)
-- RNA
+- MLP
 - RNA com Keras
 - CNN
 - Pré Processamento de LSTM
