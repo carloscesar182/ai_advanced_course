@@ -2,6 +2,19 @@
 Repo do curso de formação avançada de IA da Udemy
 
 # Módulos
+## Fundamentos de Python
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/PythonFundamentals)
+- Variáveis e Objetos
+- Estruturas de Decisão
+- Estruturadas de Repetição
+- Listas
+- Dicionários, Sets e Tuplas
+- Numpy
+- Pandas
+- Módulos e Pacotes
+- Funções
+- Funções Padrão
+
 ## Algoritmos de machine learning
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/MLAlgorithms)
 - Regressão Linear
