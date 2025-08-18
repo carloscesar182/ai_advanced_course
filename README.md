@@ -75,9 +75,13 @@ Repo do curso de formação avançada de IA da Udemy
 
 ## Algoritmos Genéticos
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/GeneticalAlgorithms)
+- Binário
+- Fitness Function
+- Fitness Function com Valor Real
 
 ## Busca e Otimização
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/SearchAndOptimization)
+- Simulated Annealing com Rosenbrock's Function
 
 ## Logica Difusa
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/DifusalLogic)
