@@ -84,4 +84,5 @@ Repo do curso de formação avançada de IA da Udemy
 - Simulated Annealing com Rosenbrock's Function
 
 ## Logica Difusa
-[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/DifusalLogic)
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/FuzzyLogic)
+- Fuzzy
