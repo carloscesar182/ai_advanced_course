@@ -99,3 +99,7 @@ Repo do curso de formação avançada de IA da Udemy
 ## Logica Difusa
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/FuzzyLogic)
 - Fuzzy
+
+## Projeto Final
+[Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/FinalProject)
+- Projeto Final
