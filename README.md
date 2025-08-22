@@ -16,12 +16,25 @@ O dataset utilizado é o **Adult Income (Census Income)**, amplamente empregado 
 - 🔍 Interpretação de modelos com `SHAP`
 
 ## 📂 Estrutura do Repositório
+Obs.: A pasta "Notebooks" foi incluída apenas para fins didáticos. Ela contém todos os módulos do curso com os exercícios e não é necessária para a execução do projeto.
 ```kotlin
+├── notebooks/
+│   ├── AI Agents
+│   ├── AnomalyDetection
+│   ├── FuzzyLogic
+│   ├── GeneticalAlgorithms
+│   ├── LLMsGenAI
+│   ├── MLAdvTechniques
+│   ├── NLP
+│   ├── PythonFundamentals
+│   ├── RNA
+│   ├── SearchOptmization
+│   └── XAI
 ├── data/
 │   ├── train.csv
 │   ├── validation.csv
 │   └── test.csv
-├── notebooks/ ou scripts/
+├── scripts/
 │   └── ProjetoFinal.ipynb
 ├── outputs/
 │   ├── metrics/
