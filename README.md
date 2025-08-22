@@ -53,16 +53,15 @@ Desenvolver um modelo preditivo para classificar a renda (<=50K ou >50K) utiliza
 
 ## Como Executar
 
-1. Instalar dependências: pip install -r requirements.txt
-2. Rodar o [scripts](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/ProjetoFinal.ipynb) em ordem:
-3. Importar os arquivos
-4. Atribuir as variáveis
-5. Fazer o pré-processamento
-6. Criar os modelos
-7. Avaliar os modelos
-8. Fazer o teste do modelo vencedor
-9. Avaliar as métricas do modelo vencedor
-10. XAI
+Rodar o script respeitando os blocos da ordem criada no colab:
+1. Importar os arquivos
+2 Atribuir as variáveis
+3. Fazer o pré-processamento
+4. Criar os modelos
+5. Avaliar os modelos
+6. Fazer o teste do modelo vencedor
+7. Avaliar as métricas do modelo vencedor
+8. XAI
 
 ---
 
