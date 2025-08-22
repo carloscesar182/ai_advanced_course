@@ -100,8 +100,8 @@ Exemplo de visualizações:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/carloscesar182/ai_advanced_course.git
+   cd ai_advanced_course
 
 2. Crie o ambiente virtual e instale as dependências:
    ```bash
