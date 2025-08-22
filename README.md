@@ -1,3 +1,83 @@
+# Projeto de Machine Learning: Previsão de renda com dataset Annual Adult Income
+
+## Objetivo
+
+Desenvolver um modelo preditivo para classificar a renda (<=50K ou >50K) utilizando técnicas de machine learning, buscando a melhor performance possível com ênfase na métrica **F1 Score**.
+
+---
+
+## Estrutura do Projeto
+
+- Dados: train.csv, validation.csv, test.csv
+- Código: scripts de pré-processamento, modelagem, avaliação e interpretação com XAI
+- Resultados: métricas e gráficos de avaliação e explicabilidade
+
+---
+
+## Metodologia
+
+### 1. Pré-processamento dos Dados
+
+- Substituição de valores faltantes representados por '?' por "Not-informed".
+- Análise e preservação dos outliers identificados nas variáveis numéricas.
+- Codificação de variáveis categóricas com Label Encoding.
+- Padronização das features numéricas usando StandardScaler.
+- Preparação do target convertido para valores numéricos.
+
+### 2. Modelagem
+
+- Utilização do H2O AutoML para benchmark de modelos.
+- Treinamento manual de Gradient Boosting, Random Forest e Naive Bayes com otimização por GridSearchCV.
+- Comparação dos modelos segundo F1 Score e outras métricas.
+
+### 3. Avaliação
+
+- Avaliação dos modelos na base de validação.
+- Avaliação final do melhor modelo (Gradient Boosting) na base de teste.
+- Principais métricas obtidas na base de teste:
+
+| Métrica       | Valor |
+|---------------|-------|
+| F1 Score      | 0.73  |
+| Acurácia      | 0.88  |
+| Recall        | 0.68  |
+| Precisão      | 0.79  |
+
+### 4. Explainable AI (XAI)
+
+- Implementação de explicações com SHAP para interpretar o impacto das features.
+- Visualização global mostra as variáveis mais importantes e seus efeitos.
+- Visualização local explica decisões individuais.
+
+---
+
+## Como Executar
+
+1. Instalar dependências: pip install -r requirements.txt
+2. Rodar o [scripts](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/ProjetoFinal.ipynb) em ordem:
+   a. Importar os arquivos
+   b. Atribuir as variáveis
+   c. Fazer o pré-processamento
+   d. Criar os modelos
+   d. Avaliar os modelos
+   e. Fazer o teste do modelo vencedor
+   f. Avaliar as métricas do modelo vencedor
+   g. XAI
+
+---
+
+## Resultados e Insights
+
+- O modelo Gradient Boosting mostrou o melhor desempenho geral.
+- Features financeiras e demográficas são os maiores influenciadores.
+- XAI trouxe transparência e interpretabilidade essenciais para o projeto.
+
+---
+
+## Publicação
+
+Código e documentação disponíveis neste repositório para reprodução e estudo.
+
 # Curso Avançado de IA
 Repo do curso de formação avançada de IA da Udemy
 
