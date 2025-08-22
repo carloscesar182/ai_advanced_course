@@ -15,97 +15,6 @@ O dataset utilizado é o **Adult Income (Census Income)**, amplamente empregado 
 - 📈 Métricas avaliadas: *Accuracy, Precision, Recall, F1-score, AUC*
 - 🔍 Interpretação de modelos com `SHAP`
 
-## 📂 Estrutura do Repositório
-Obs.: A pasta "Notebooks" foi incluída apenas para fins didáticos. Ela contém todos os módulos do curso com os exercícios e não é necessária para a execução do projeto.
-```kotlin
-├── notebooks/
-│   ├── AI Agents/
-│   │   ├── AgenteComWeb.ipynb
-│   │   └── AgenteRAGEEspecializado.ipynb
-│   ├── AnomalyDetection/
-│   │   ├── ARIMA.ipynb
-│   │   ├── AutoEncoders.ipynb
-│   │   ├── ExponentialSmoothing.ipynb
-│   │   ├── IsolationForest.ipynb
-│   │   ├── LOF.ipynb
-│   │   ├── LSTMAnomalias.ipynb
-│   │   ├── MediaMovel.ipynb
-│   │   └── STD.ipynb
-│   ├── FuzzyLogic/
-│   │   └── fuzzy.ipynb
-│   ├── GeneticalAlgorithms/
-│   │   ├── Binario.ipynb
-│   │   ├── FitnessFunction.ipynb
-│   │   └── FitnessFunctionValorReal.ipynb
-│   ├── LLMsGenAI/
-│   │   ├── DALL_E.ipynb
-│   │   ├── DeepSeek.ipynb
-│   │   ├── FillMask.ipynb
-│   │   ├── Gemini.ipynb
-│   │   ├── OpenAIGPT.ipynb
-│   │   ├── Resumo.ipynb
-│   │   ├── StableDiffusion.ipynb
-│   │   ├── TextGenerator.ipynb
-│   │   └── Whisper.ipynb
-│   ├── MLAdvTechniques/
-│   │   ├── AutoML.ipynb
-│   │   ├── AutoML20.ipynb
-│   │   ├── BestCluster.ipynb
-│   │   ├── Cluster.ipynb
-│   │   ├── EngAtributos.ipynb
-│   │   ├── MultiLabel.ipynb
-│   │   ├── PCA.ipynb
-│   │   ├── SelecaoAtributos.ipynb
-│   │   └── Unbal.ipynb
-│   ├── MLAlgorithms/
-│   │   ├── Apriori.ipynb
-│   │   ├── DecisionTree.ipynb
-│   │   ├── K_means.ipynb
-│   │   ├── NaiveBayes.ipynb
-│   │   ├── RandomForest.ipynb
-│   │   ├── Regressao.ipynb
-│   │   ├── RegressaoLinear.ipynb
-│   │   └── kNN.ipynb
-│   ├── NLP/
-│   │   ├── NLPRA.ipynb
-│   │   └── NLTK.ipynb
-│   ├── PythonFundamentals/
-│   │   ├── DicionariosSetsTuplas.ipynb
-│   │   ├── EstruturaDeDecisao.ipynb
-│   │   ├── EstruturaDeRepeticao.ipynb
-│   │   ├── Exercicios.ipynb
-│   │   ├── Funcoes.ipynb
-│   │   ├── FuncoesPadrao.ipynb
-│   │   ├── Listas.ipynb
-│   │   ├── ModulosEPacotes.ipynb
-│   │   ├── Numpy.ipynb
-│   │   ├── Pandas.ipynb
-│   │   └── VariaveisEObjetos.ipynb
-│   ├── RNA/
-│   │   ├── AutoEncoders.ipynb
-│   │   ├── CNN.ipynb
-│   │   ├── DeteccaoObjetos.ipynb
-│   │   ├── LSTM.ipynb
-│   │   ├── MLP.ipynb
-│   │   └── RNAKeras.ipynb
-│   ├── SearchOptmization/
-│   │   └── SimulatedAnnealing.ipynb
-│   └── XAI/
-│   │   └── XAI.ipynb
-├── data/
-│   ├── train.csv
-│   ├── validation.csv
-│   └── test.csv
-├── scripts/
-│   └── ProjetoFinal.ipynb
-├── outputs/
-│   ├── metrics/
-│   └── figures/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
 ## ⚙️ Tecnologias Utilizadas
 - **Python 3.10+**
 - **Pandas / NumPy** – manipulação de dados
@@ -196,6 +105,97 @@ Exemplo de visualizações:
 - Explorar diferentes codificações categóricas (OneHot, Target Encoding)
 - Pipeline completo com CI/CD ou Dockerização
 - Comparar interpretabilidade com outras técnicas (ex.: LIME)
+
+## 📂 Estrutura do Repositório
+Obs.: A pasta "Notebooks" foi incluída apenas para fins didáticos. Ela contém todos os módulos do curso com os exercícios e não é necessária para a execução do projeto.
+```kotlin
+├── notebooks/
+│   ├── AI Agents/
+│   │   ├── AgenteComWeb.ipynb
+│   │   └── AgenteRAGEEspecializado.ipynb
+│   ├── AnomalyDetection/
+│   │   ├── ARIMA.ipynb
+│   │   ├── AutoEncoders.ipynb
+│   │   ├── ExponentialSmoothing.ipynb
+│   │   ├── IsolationForest.ipynb
+│   │   ├── LOF.ipynb
+│   │   ├── LSTMAnomalias.ipynb
+│   │   ├── MediaMovel.ipynb
+│   │   └── STD.ipynb
+│   ├── FuzzyLogic/
+│   │   └── fuzzy.ipynb
+│   ├── GeneticalAlgorithms/
+│   │   ├── Binario.ipynb
+│   │   ├── FitnessFunction.ipynb
+│   │   └── FitnessFunctionValorReal.ipynb
+│   ├── LLMsGenAI/
+│   │   ├── DALL_E.ipynb
+│   │   ├── DeepSeek.ipynb
+│   │   ├── FillMask.ipynb
+│   │   ├── Gemini.ipynb
+│   │   ├── OpenAIGPT.ipynb
+│   │   ├── Resumo.ipynb
+│   │   ├── StableDiffusion.ipynb
+│   │   ├── TextGenerator.ipynb
+│   │   └── Whisper.ipynb
+│   ├── MLAdvTechniques/
+│   │   ├── AutoML.ipynb
+│   │   ├── AutoML20.ipynb
+│   │   ├── BestCluster.ipynb
+│   │   ├── Cluster.ipynb
+│   │   ├── EngAtributos.ipynb
+│   │   ├── MultiLabel.ipynb
+│   │   ├── PCA.ipynb
+│   │   ├── SelecaoAtributos.ipynb
+│   │   └── Unbal.ipynb
+│   ├── MLAlgorithms/
+│   │   ├── Apriori.ipynb
+│   │   ├── DecisionTree.ipynb
+│   │   ├── K_means.ipynb
+│   │   ├── NaiveBayes.ipynb
+│   │   ├── RandomForest.ipynb
+│   │   ├── Regressao.ipynb
+│   │   ├── RegressaoLinear.ipynb
+│   │   └── kNN.ipynb
+│   ├── NLP/
+│   │   ├── NLPRA.ipynb
+│   │   └── NLTK.ipynb
+│   ├── PythonFundamentals/
+│   │   ├── DicionariosSetsTuplas.ipynb
+│   │   ├── EstruturaDeDecisao.ipynb
+│   │   ├── EstruturaDeRepeticao.ipynb
+│   │   ├── Exercicios.ipynb
+│   │   ├── Funcoes.ipynb
+│   │   ├── FuncoesPadrao.ipynb
+│   │   ├── Listas.ipynb
+│   │   ├── ModulosEPacotes.ipynb
+│   │   ├── Numpy.ipynb
+│   │   ├── Pandas.ipynb
+│   │   └── VariaveisEObjetos.ipynb
+│   ├── RNA/
+│   │   ├── AutoEncoders.ipynb
+│   │   ├── CNN.ipynb
+│   │   ├── DeteccaoObjetos.ipynb
+│   │   ├── LSTM.ipynb
+│   │   ├── MLP.ipynb
+│   │   └── RNAKeras.ipynb
+│   ├── SearchOptmization/
+│   │   └── SimulatedAnnealing.ipynb
+│   └── XAI/
+│   │   └── XAI.ipynb
+├── data/
+│   ├── train.csv
+│   ├── validation.csv
+│   └── test.csv
+├── scripts/
+│   └── ProjetoFinal.ipynb
+├── outputs/
+│   ├── metrics/
+│   └── figures/
+├── README.md
+├── requirements.txt
+└── LICENSE
+```
 
 ---
 
