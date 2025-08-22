@@ -8,8 +8,8 @@ Desenvolver um modelo preditivo para classificar a renda (<=50K ou >50K) utiliza
 
 ## Estrutura do Projeto
 
-- Dados: train.csv, validation.csv, test.csv
-- Código: scripts de pré-processamento, modelagem, avaliação e interpretação com XAI
+- Dados: [train.csv](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/train.csv), [validation.csv](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/validation.csv), [test.csv](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/test.csv)
+- Código: [script](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/ProjetoFinal.ipynb) para pré-processamento, modelagem, avaliação e interpretação com XAI
 - Resultados: métricas e gráficos de avaliação e explicabilidade
 
 ---
@@ -55,14 +55,14 @@ Desenvolver um modelo preditivo para classificar a renda (<=50K ou >50K) utiliza
 
 1. Instalar dependências: pip install -r requirements.txt
 2. Rodar o [scripts](https://github.com/carloscesar182/ai_advanced_course/blob/main/Notebooks/FinalProject/ProjetoFinal.ipynb) em ordem:
-   a. Importar os arquivos
-   b. Atribuir as variáveis
-   c. Fazer o pré-processamento
-   d. Criar os modelos
-   d. Avaliar os modelos
-   e. Fazer o teste do modelo vencedor
-   f. Avaliar as métricas do modelo vencedor
-   g. XAI
+3. Importar os arquivos
+4. Atribuir as variáveis
+5. Fazer o pré-processamento
+6. Criar os modelos
+7. Avaliar os modelos
+8. Fazer o teste do modelo vencedor
+9. Avaliar as métricas do modelo vencedor
+10. XAI
 
 ---
 
@@ -78,10 +78,9 @@ Desenvolver um modelo preditivo para classificar a renda (<=50K ou >50K) utiliza
 
 Código e documentação disponíveis neste repositório para reprodução e estudo.
 
-# Curso Avançado de IA
-Repo do curso de formação avançada de IA da Udemy
+---
 
-# Módulos
+# Módulos do Curso
 ## Fundamentos de Python
 [Files Folder](https://github.com/carloscesar182/ai_advanced_course/tree/main/Notebooks/PythonFundamentals)
 - Variáveis e Objetos
