@@ -126,11 +126,11 @@ Exemplo de visualizações:
 
 ## 📜 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/carloscesar182/ai_advanced_course/blob/main/LICENSE) para mais detalhes.
 
 ## ✉️ Contato
 Autor: Carlos Ferreira
 
 LinkedIn: [https://www.linkedin.com/in/carloscferreira/](https://www.linkedin.com/in/carloscferreira/)
 
-E-mail: carloscesar182@gmail.com
+E-mail: [carloscesar182@gmail.com](mailto:carloscesar182@gmail.com)
